@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentsrocess",
+        "uuid": 36548265,
+        "checksum": "21q1k1"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
